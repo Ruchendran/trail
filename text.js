@@ -1,1 +1,1 @@
-console.log("hitted")
+console.log("hitted","os ")
